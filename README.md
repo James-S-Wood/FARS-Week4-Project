@@ -4,9 +4,9 @@
 
 Final Peer-graded Assignment: Building an R Package
 
-Author: Marco Mello
+Author: James Wood
 
-E-mail: marmello@usp.br
+E-mail: james_s_wood@outlook.com
 
 
 ## Instructions
