@@ -49,7 +49,7 @@ For this assignment you'll submit a link to the GitHub repository which contains
 
 ## Travis testing badge
 
-[![Build Status](https://travis-ci.org/marmello77/FARS.svg?branch=main)](https://travis-ci.org/marmello77/FARS)
+[![Build Status](https://travis-ci.com/James-S-Wood/FARS-Week4-Project.svg?branch=master)](https://travis-ci.com/James-S-Wood/FARS-Week4-Project)
   
   
 ## Functionality
